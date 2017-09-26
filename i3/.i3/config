@@ -171,7 +171,7 @@ bar {
 	workspace_buttons yes
 	status_command sh ~/bin/conky-i3bar
 	tray_output none
-	font -*-terminus-medium-r-*-*-12-*-*-*-*-*-iso10646-*
+	font pango:Terminus 12px
 	colors {
         	background #2b303b
         	statusline #605c5a
